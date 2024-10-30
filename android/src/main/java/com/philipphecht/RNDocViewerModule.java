@@ -31,7 +31,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import android.support.v4.content.FileProvider;
+
+// 迁移到AndroidX
+import androidx.core.content.FileProvider;
+// import android.support.v4.content.FileProvider;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
