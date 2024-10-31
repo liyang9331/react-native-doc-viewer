@@ -10,7 +10,6 @@ import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableArray;
 // import com.facebook.react.views.webview.ReactWebViewManager;
-import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.views.webview.ReactWebView;
 
 
